@@ -1,0 +1,1 @@
+This project is designed to demonstrate GIT to students. It can be used by anyone and is covered by the MIT license contained in the LICENSE document.
